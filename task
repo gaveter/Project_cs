@@ -1,2 +1,0 @@
-1. Normalize the loan_lenders table. In the normalized table, each row must have one loan_id and one lender.
-2. For each loan, add a column duration corresponding to the number of days between the disburse time and the planned expiration time.
