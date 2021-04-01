@@ -1,6 +1,6 @@
 # Project_cs
-progetto foundation of computer science
+Foundation of computer science project
 
-In questa repo sono contenuti due file:
-1) .txt con i task da risolvere
-2) .ipnyb con codice python
+This repo contains two files:
+1) .txt with all tasks to compute
+2) .ipnyb with Python code
